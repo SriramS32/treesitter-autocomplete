@@ -2,7 +2,7 @@
 Autocomplete utility using tree-sitter for python code
 
 ### Requirements
-Vendor packages have been included and prebuilt into `build/languages.so` by `build_tspy_library.py`
+Vendor packages have been prebuilt into `build/languages.so` by `build_tspy_library.py`
 ```Shell
 pip install tree-sitter
 ```
